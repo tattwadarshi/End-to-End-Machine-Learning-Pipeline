@@ -10,6 +10,7 @@ _In this project we built an entire end to end machine learning pipeline for acc
           2. Which is numbered
 
 * Step 1: In the first stage we do a prelimnary data analysis to identify:
+  * sksks
 1. Missing values
 1. Numerical variables
 1. Distribution of the numerical variables
