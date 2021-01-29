@@ -25,9 +25,8 @@ _In this project we built an entire end to end machine learning pipeline for acc
  
 * Step 4: In this stage we finally build our machine learning model, utilising the engineered data and the pre-selected features.
 
-* Step 5: Now, we want to deploy our model. We want to create an API, which we can call with new data, with new characteristics about houses, to get an estimate of the SalePrice. In order to do so, we need to write code in a very specific way.
-
-Here, we will summarise the key pieces of code, that we need to take forward for this particular project, to put our model in production. 
+* Step 5: **Here, we will summarise the key pieces of code, that we need to take forward for this particular project, to put our model in production.**
+_ Now we want to deploy our model. We want to create an API, which we can call with new data, with new characteristics about houses, to get an estimate of the SalePrice. In order to do so, we need to write code in a very specific way._
    
    
  
