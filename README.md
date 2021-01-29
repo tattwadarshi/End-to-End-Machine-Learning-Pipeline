@@ -10,10 +10,10 @@ _In this project we built an entire end to end machine learning pipeline for acc
           2. Which is numbered
 
 * Step 1: In the first stage we do a prelimnary data analysis to identify:
-Missing values
-Numerical variables
-Distribution of the numerical variables
-Outliers
-Categorical variables
-Cardinality of the categorical variables
-Potential relationship between the variables and the target: SalePrice
+1. Missing values
+1. Numerical variables
+1. Distribution of the numerical variables
+1. Outliers
+1. Categorical variables
+1. Cardinality of the categorical variables
+1. Potential relationship between the variables and the target: SalePrice
